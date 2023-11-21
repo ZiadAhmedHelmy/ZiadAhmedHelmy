@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZiadAhmedHelmy
-- 👀 I’m interested in Networking , Moblie Application
+- 👀 I’m interested in Networking , Moblie Application (Flutter)
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me z2gamer500@gmail.com
 
