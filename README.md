@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ziad Ahmed Helmy</h1>
 <h3 align="center">A passionate Mobile developer and passionate about Learning new technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadahmedhelmy&label=Profile%20views&color=0e75b6&style=flat" alt="ziadahmedhelmy" /> </p>
-
 - 🔭 I’m currently working on [FoodiApp](https://github.com/ZiadAhmedHelmy/Foodi-App)
 
 - 🌱 I’m currently learning **Flutter**
